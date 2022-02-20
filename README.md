@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Uthistra
 - 👀 I’m interested in .Net , Python ,No-code and R Development
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/uthistrak/
 
 <!---
